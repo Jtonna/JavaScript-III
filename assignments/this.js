@@ -21,6 +21,8 @@
 * write out a code example of each explanation above
 */
 
+// I would like if you could explain the diffrences in these a bit further as i understand how they work but i dont understand exactly how they are diffrent. 
+
 // Principle 1
 
 let poohSays = 'helllooooooo';
